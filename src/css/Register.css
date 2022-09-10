@@ -1,0 +1,51 @@
+.Author img{
+    cursor: pointer;
+    height: 200px;
+    width: 300px;
+}
+.Author h4{
+margin-top: 20px;
+    color:    #1ED085;
+    font-size: 32px;
+}
+.registre {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(https://img.lovepik.com/photo/50071/1177.jpg_wh860.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
+.spanf {
+    color:#15283C;
+    font-size: 72px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    }
+    
+.Author {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.registerform{
+
+    margin: 0 auto;
+    
+
+    }
+
+.actors > div {
+    margin: 20px;
+}
+#btnn {
+    
+    /* background-color: green; */
+    background: #1ed085;
+    border-radius: 5px;
+    color: white !important;
+    margin-left: 200px;
+    
+    
+}
